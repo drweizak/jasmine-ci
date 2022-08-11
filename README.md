@@ -1,0 +1,1 @@
+[![Build Status](https://app.travis-ci.com/drweizak/jasmine-ci.svg?branch=master)](https://app.travis-ci.com/drweizak/jasmine-ci)
